@@ -1,3 +1,3 @@
-# texa.github.io
+# texaproject.github.io
 
 Website repository for Texa Project.
